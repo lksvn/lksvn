@@ -6,10 +6,7 @@ Web Developer from Brazil building websites, web applications, REST APIs and Saa
 
 ## Currently
 
-- Working at WI Digital
-- Maintaining SaaS platform modules and REST APIs
-- Building personal projects with Python and Vue.js
-- Open to freelance projects and new opportunities
+- Open to full-time and freelance opportunities
 
 ## Links
 - Website: https://lksvn.com.br

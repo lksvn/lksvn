@@ -1,31 +1,37 @@
 # Hi, I'm Lucas 👋
-Also known as **LkSvn** 🐿️.
+Also known as **LkSvn** 🐿️ — a Brazilian web developer with 15+ years of experience building websites, web applications, REST APIs, and SaaS platforms.
 
-Web Developer from Brazil with 15+ years of experience building websites, web applications, REST APIs and SaaS platforms.
+I like turning real needs into useful software, from local-first personal tools to reusable developer workflows. My current work combines TypeScript, React, Node.js, data modeling, automation, and AI-assisted development. 🤖
 
-## 💼 Currently
+## 💼 What I'm working on
 
-- 💼 Open to full-time and freelance opportunities
-- 📚 Expanding my stack with TypeScript, React and Next.js
-- 🚀 Building [Candidate Tracker](https://github.com/lksvn/candidate-tracker-ts) to learn the modern React ecosystem through a real-world project
+- 🛠️ Building practical tools around personal finance, career data, and game-market analysis
+- 📚 Deepening my work with TypeScript, React, software architecture, and local-first applications
+- 🚀 Open to full-time and freelance opportunities
 
-## 🚀 Current Project
+## 🚀 Selected work
 
-### [Candidate Tracker](https://github.com/lksvn/candidate-tracker-ts)
-A real-world application used to explore modern TypeScript, React and software architecture through practical development.
+### 📈 [Flip Lab](https://github.com/lksvn/poe-flip-lab)
 
-Current learning focus:
-- TypeScript
-- Domain Modeling
-- Software Architecture
+A local Path of Exile market-analysis dashboard built with **TypeScript, React, Vite, Node.js, and SQLite**. It combines live economy data with local stash history to rank opportunities, track wealth, compare snapshots, and surface market signals.
 
-Next milestones:
-- React
-- Next.js
+### 💰 [Obsidian Finances Template](https://github.com/lksvn/obsidian-finances-template)
 
-## 🔗 Links
-- Portfolio: https://lksvn.com.br
-- LinkedIn: https://linkedin.com/in/lksvn
+A privacy-friendly, local-first personal-finance system for **Obsidian**, with recurring transactions, installments, dashboards, Bases, and QuickAdd workflows.
+
+### 🧰 [Career Workbench](https://github.com/lksvn/career-workbench)
+
+A portable, file-based protocol and set of AI skills for maintaining fact-checked career data and generating resumes without mixing evidence, personal projects, and professional experience.
+
+### ⏸️ [Candidate Tracker](https://github.com/lksvn/candidate-tracker-ts)
+
+A TypeScript and Next.js learning project for modeling companies and job opportunities with PostgreSQL, Prisma, repository contracts, runtime validation, and automated tests. It is currently **paused while I focus on other projects**, but remains an important architecture lab I intend to revisit.
+
+## 🔗 Find me online
+
+- 🌐 [Portfolio](https://lksvn.com.br)
+- 💼 [LinkedIn](https://linkedin.com/in/lksvn)
+- ✉️ [Email](mailto:lksvn@outlook.com)
 
 ## 🧠 Interested In
 

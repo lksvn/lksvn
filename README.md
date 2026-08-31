@@ -11,6 +11,12 @@ I like turning real needs into useful software, from local-first personal tools 
 
 ## 🚀 Selected work
 
+### 🃏 [MTG Proxy](https://github.com/lksvn/mtg-proxy)
+
+A browser-based tool that turns Magic: The Gathering deck lists into printable playtest card PDFs. It integrates with Scryfall, supports specific printings and multiple paper formats, and is automatically deployed through GitHub Pages.
+
+🔗 [Try it online](https://lksvn.com.br/mtg-proxy/)
+
 ### 📈 [Flip Lab](https://github.com/lksvn/poe-flip-lab)
 
 A local Path of Exile market-analysis dashboard built with **TypeScript, React, Vite, Node.js, and SQLite**. It combines live economy data with local stash history to rank opportunities, track wealth, compare snapshots, and surface market signals.
@@ -22,10 +28,6 @@ A privacy-friendly, local-first personal-finance system for **Obsidian**, with r
 ### 🧰 [Career Workbench](https://github.com/lksvn/career-workbench)
 
 A portable, file-based protocol and set of AI skills for maintaining fact-checked career data and generating resumes without mixing evidence, personal projects, and professional experience.
-
-### ⏸️ [Candidate Tracker](https://github.com/lksvn/candidate-tracker-ts)
-
-A TypeScript and Next.js learning project for modeling companies and job opportunities with PostgreSQL, Prisma, repository contracts, runtime validation, and automated tests. It is currently **paused while I focus on other projects**, but remains an important architecture lab I intend to revisit.
 
 ## 🔗 Find me online
 

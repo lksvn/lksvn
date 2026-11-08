@@ -1,78 +1,62 @@
 # Hi, I'm Lucas 👋
-Also known as **LkSvn** 🐿️ — a Brazilian web developer with 15+ years of experience building websites, web applications, REST APIs, and SaaS platforms.
 
-I like turning real needs into useful software, from local-first personal tools to reusable developer workflows. My current work combines TypeScript, React, Node.js, data modeling, automation, and AI-assisted development. 🤖
+**LkSvn** 🐿️ · Brazilian web developer · building for the web since 2009
 
-## 💼 What I'm working on
+I build websites, web apps, REST APIs and SaaS platforms. These days that means **TypeScript, React, Next.js and Node.js**, plus a lot of local-first tools and AI-assisted workflows. 🤖
 
-- 🛠️ Building practical tools around personal finance, career data, and game-market analysis
-- 📚 Deepening my work with TypeScript, React, software architecture, and local-first applications
-- 🚀 Open to full-time and freelance opportunities
+🚀 Open to full-time and freelance work · [lksvn.com.br](https://lksvn.com.br) · [LinkedIn](https://linkedin.com/in/lksvn) · [Email](mailto:lksvn@outlook.com)
+
+## 🟢 In production
+
+### 🔮 Scry & Trade
+
+A Portuguese-language web app for organizing and sharing Magic: The Gathering HAVE and WANT lists. It supports list imports, public and private profiles, card discovery, trade matching, and drafts synced across devices.
+
+**Stack:** React, TypeScript, Supabase, PostgreSQL, Scryfall API
+
+🔗 [scrytrade.com.br](https://scrytrade.com.br/) · *private repository*
 
 ## 🚀 Selected work
 
-### 🃏 [MTG Proxy](https://github.com/lksvn/mtg-proxy)
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🃏 [MTG Proxy](https://github.com/lksvn/mtg-proxy) · [live](https://lksvn.com.br/mtg-proxy/) | Turns Magic: The Gathering deck lists into printable playtest PDFs, with Scryfall printings and multiple paper sizes | TypeScript, GitHub Pages |
+| 📈 [Flip Lab](https://github.com/lksvn/poe-flip-lab) | Local Path of Exile market dashboard: ranks currency flips, tracks wealth and compares stash snapshots | TypeScript, React, Vite, Node.js, SQLite |
+| 💰 [Obsidian Finances](https://github.com/lksvn/obsidian-finances-template) | Local-first personal finance in Obsidian: recurring transactions, installments, dashboards and QuickAdd flows | Obsidian, Bases, JavaScript |
+| 🧰 [Career Workbench](https://github.com/lksvn/career-workbench) | File-based protocol and AI skills that keep career data fact-checked and generate resumes from it | Markdown for AI agents |
+| 🎯 [Candidate Tracker](https://github.com/lksvn/candidate-tracker-ts) | Learning lab for domain modeling, validation and testing, built as a job-hunt tracker | TypeScript, Next.js, Prisma, PostgreSQL |
+| 🌐 [lksvn.com.br](https://github.com/lksvn/lksvn.github.io) | My portfolio site | TypeScript |
 
-A browser-based tool that turns Magic: The Gathering deck lists into printable playtest card PDFs. It integrates with Scryfall, supports specific printings and multiple paper formats, and is automatically deployed through GitHub Pages.
+## 🧠 How I work
 
-🔗 [Try it online](https://lksvn.com.br/mtg-proxy/)
+- Start from a real need, ship the smallest useful version, then improve it.
+- Keep data local and owned by the user when I can.
+- Learn new tech by building with it. Tools change; good engineering principles stay.
 
-### 📈 [Flip Lab](https://github.com/lksvn/poe-flip-lab)
+## 🛠️ Toolbox
 
-A local Path of Exile market-analysis dashboard built with **TypeScript, React, Vite, Node.js, and SQLite**. It combines live economy data with local stash history to rank opportunities, track wealth, compare snapshots, and surface market signals.
+**Now**
 
-### 💰 [Obsidian Finances Template](https://github.com/lksvn/obsidian-finances-template)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 
-A privacy-friendly, local-first personal-finance system for **Obsidian**, with recurring transactions, installments, dashboards, Bases, and QuickAdd workflows.
+**Also shipped with**
 
-### 🧰 [Career Workbench](https://github.com/lksvn/career-workbench)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-A portable, file-based protocol and set of AI skills for maintaining fact-checked career data and generating resumes without mixing evidence, personal projects, and professional experience.
+**After hours**
 
-## 🔗 Find me online
-
-- 🌐 [Portfolio](https://lksvn.com.br)
-- 💼 [LinkedIn](https://linkedin.com/in/lksvn)
-- ✉️ [Email](mailto:lksvn@outlook.com)
-
-## 🧠 Interested In
-
-- Modern Web Development
-- SaaS Platforms
-- Software Architecture
-- REST APIs
-- Developer Experience
-- 🤖 AI Integrations
-
-## 💭 Philosophy
-
-I enjoy building software that solves real problems.
-
-I believe the best way to learn new technologies is by building real projects, understanding architectural decisions and continuously improving previous solutions.
-
-Technologies change. Good engineering principles endure.
-
----
-
-📖 Learning by building since 2009.
-
----
-
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![image](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![image](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
-![image](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
-![image](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
